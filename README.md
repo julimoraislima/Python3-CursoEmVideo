@@ -1,3 +1,3 @@
 # Python3-CursoEmVideo
  Exercises of the course
- Desafios do curso
+/ Desafios do Curso
