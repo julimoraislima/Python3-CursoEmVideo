@@ -15,3 +15,4 @@ Year | Level | Classes | Exercises /Desafios
 2020 | Mundo 2 | 12 - 15 | 36 - 71
 2020 | Mundo 3 |16 - 23 | 72 - 115c
 
+![](images/octocat-python.365x365px.png)
