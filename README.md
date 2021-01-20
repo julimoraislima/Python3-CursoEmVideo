@@ -1,3 +1,5 @@
+<img src="images/octocat-python.365x365px.png" align="right">
+
 ### This is my repository of exercises that I've done during the course ***Python3*** - [Curso em Vídeo](https://cursoemvideo.com)
 
 ***
@@ -14,5 +16,3 @@ Year | Level | Classes | Exercises /Desafios
 2020 | Mundo 1 | 1- 11 | 1 - 35 
 2020 | Mundo 2 | 12 - 15 | 36 - 71
 2020 | Mundo 3 |16 - 23 | 72 - 115c
-
-![](images/octocat-python.365x365px.png)
