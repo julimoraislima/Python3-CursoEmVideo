@@ -1,7 +1,7 @@
 <img src="images/octocat-python.365x365px.png" align="right">
 
-### This is my repository of exercises that I've done during the course ***Python3*** - [Curso em Vídeo](https://cursoemvideo.com)
-
+### This is my repository of exercises that I've done during the course ***Python3*** 
+Exercícios feitos durante o curso de Python 3 - [Curso em Vídeo](https://cursoemvideo.com)
 ***
 ## Completed Levels
 - [x] Mundo 1
